@@ -1,15 +1,17 @@
 # 👋 Olá, eu sou Messias Junior
 
-Desenvolvedor focado em backend, com experiência em múltiplas linguagens e frameworks.  
-Gosto de transformar regras de negócio em soluções simples, organizadas e escaláveis.
+Desenvolvedor focado em backend, criando soluções escaláveis e bem estruturadas.
 
-Atualmente evoluindo em **Java com Spring Boot**, **TypeScript com NestJS** e **boas práticas de arquitetura**.
+### 🚀 Main Stack
+Java • Spring Boot • SQL Server • TypeScript • NestJS
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" title="NestJS" />
+</p>
 
-## 👨‍💻 Sobre mim
-- 💻 Atuação: **Backend / Full Stack**
-- 🧠 Stack principal: **Java | Spring Boot | SQL Server**
 - 📚 Estudando atualmente: **NestJS, TypeScript e arquitetura de APIs**
 - 🚀 Objetivo: Atuar em projetos desafiadores, evoluindo tecnicamente e entregando valor real
 
