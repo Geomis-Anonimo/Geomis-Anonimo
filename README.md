@@ -49,13 +49,13 @@ Atualmente evoluindo em **Java com Spring Boot**, **TypeScript com NestJS** e **
 ## 📈 Atividade e Estatísticas
 
 ### Visão geral
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geomis-Anonimo&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geomis-Anonimo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
 
 ### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geomis-Anonimo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geomis-Anonimo&layout=compact&langs_count=8)
 
 ### Sequência de commits (streak)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSER)
+![GitHub Streak](https://streak-stats.demolab.com?user=Geomis-Anonimo&theme=default)
 
 ### Gráfico de atividade ao longo do tempo
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Geomis-Anonimo&theme=minimal)
